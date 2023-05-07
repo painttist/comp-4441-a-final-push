@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "Glitch",
+      "targetTime": 14.42483192004425
+    },
+    {
+      "name": "Curtain On",
+      "targetTime": 28.060352529027814
+    },
+    {
+      "name": "Curtain Off",
+      "targetTime": 28.709793138928887
+    },
+    {
+      "name": "Zoom In",
+      "targetTime": 15.90629468461703
+    }
+  ],
+  "seed": 625353003
+}
